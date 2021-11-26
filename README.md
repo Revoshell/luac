@@ -39,4 +39,4 @@ If you enter "messages=false" or "messages=0", the script messages will not be s
 
 NOTE! IMPORTANT!
 - For the script to work, the SAMP.Lua library (SAMP.Events module) is required. You can download it either from the link: blast.hk/threads/14624, or from the developer's repository: github.com/THE-FYP/SAMP.Lua
-- If the script stops working, you can reload all your scripts with the script that comes with moonloader (by pressing ctrl + r).
+- If the script stops working, you can reload all your scripts with the script that comes with moonloader (by pressing ctrl+r).
