@@ -33,9 +33,9 @@ because for other players you just hover deep under the textures.
 2. The script has a configuration file .ini along the path: Root folder of the game\moonloader\config\UCAR.ini
 - There are parameters in the config file.
 - The "key" parameter is responsible for setting the default activation key.
-Available keys for use: shift, space, default, x, r, q, e, g, z, b, n, ctrl (control).
+Available keys for use: shift, space, default, x, r, q, e, g, z, b, n, ctrl(control).
 - The "messages" parameter is responsible for displaying the messages of the script by default.
-If you enter "messages = false" or "messages = 0", the script messages will not be sent. If you enter "messages = true" or "messages = 1", then messages will be sent.
+If you enter "messages=false" or "messages=0", the script messages will not be sent. If you enter "messages=true" or "messages=1", then messages will be sent.
 
 NOTE! IMPORTANT!
 - For the script to work, the SAMP.Lua library (SAMP.Events module) is required. You can download it either from the link: blast.hk/threads/14624, or from the developer's repository: github.com/THE-FYP/SAMP.Lua
