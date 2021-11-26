@@ -2,7 +2,7 @@
 This repository contains compiled versions of scripts for the RDS server
 
 RDS UCAR
-Сервер СА-МП: РДС (samp://176.32.36.131:7777)
+Сервер СА-МП: РДС (176.32.36.131:7777)
 1. Скрипт предназначен для минимизирования помех.
 - По нажатию на клавишу активации: B (по умолчанию) включается часть кода скрипта, которая отправляет ложную синхронизацию по координате Z (data.position.z = -90).
 В следствие чего для остальных игроков вы находитесь под землёй, но локально у вас ничего не меняется. В момент отправки и до момента автоматической деактивации
@@ -22,7 +22,7 @@ RDS UCAR
 - Если скрипт перестал работать, вы можете перезагрузить все ваши скрипты скриптом, который идёт в комплекте с moonloader (нажав клавиши ctrl+r).
 
 RDS UCAR
-Server SA-MP: RDS (samp://176.32.36.131:7777)
+Server SA-MP: RDS (176.32.36.131:7777)
 1. The script is designed to minimize interference.
 - By pressing the activation key: B (by default), a part of the script code is included that sends a false synchronization at the Z coordinate (data.position.z = -90).
 As a result, for the rest of the players you are underground, but locally nothing changes for you. At the time of sending and until the moment of automatic deactivation
