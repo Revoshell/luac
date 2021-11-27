@@ -56,6 +56,7 @@ RDS XCAR (Актуальная версия 2.8)
 - При нажатии на клавишу активации: X (по умолчанию) происходит телепортация на позицию, которая была ранее, но без перебора во временных рамках.
 Этого достаточно, чтобы объехать препятствие. Для целесообразности и защиты от использования во вред установлено ограничение на использование размером в 7 секунд.
 - У скрипта присутствует рендер текущего состояния скрипта. По команде /xc или /xcount он активируется. По этой же команде происходит деактивация.
+- Выставлена проверка на локацию. Помимо обычного мира - нигде нельзя использовать этот скрипт.
 - Скрипт создаёт и использует файл конфигурации по пути: Корневая папка игры\moonloader\config\XCAR.ini
 Параметры:
 - "key" отвечает за установку клавиши по умолчанию. Можно использовать одну из клавиш, которые указаны ниже.
@@ -78,6 +79,7 @@ SA-MP server: RDS (176.32.36.131:7777)
 - When you press the activation key: X (by default), teleportation occurs to the position that was previously, but without busting in the time frame.
 This is enough to get around the obstacle. For expediency and protection against harmful use, a limit of 7 seconds is set.
 - The script has a render of the current state of the script. By command /xc or /xcount it is activated. Deactivation occurs on the same command.
+- Checked on the location. Apart from the usual world, this script cannot be used anywhere.
 - The script creates and uses a configuration file along the path: Root folder of the game\moonloader\config\XCAR.ini
 Options:
 - "key" is responsible for setting the default key. You can use one of the keys below.
