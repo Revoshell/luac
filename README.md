@@ -93,5 +93,5 @@ In order not to go here for information, the script provides a dialog box with i
 NOTE! IMPORTANT!
 - For the script to work, the SAMP.Lua library (SAMP.Events module) is required. You can download it either from the link: blast.hk/threads/14624, or from the developer's repository: github.com/THE-FYP/SAMP.Lua
 - If the script stops working, you can reload all your scripts with the script that comes with moonloader (by pressing ctrl+r).
-- 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
