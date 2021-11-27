@@ -1,6 +1,8 @@
 # luac
 This repository contains compiled versions of scripts for the RDS server
 
+RUS:
+
 RDS UCAR (Актуальная версия 1.5)
 Сервер СА-МП: РДС (176.32.36.131:7777)
 1. Скрипт предназначен для минимизирования помех.
@@ -20,6 +22,9 @@ RDS UCAR (Актуальная версия 1.5)
 ОБРАТИТЕ ВНИМАНИЕ! ВАЖНО!
 - Для работы скрипта необходима библиотека SAMP.Lua (модуль SAMP.Events). Скачать можно либо по ссылке: blast.hk/threads/14624, либо из репозитория разработчика: github.com/THE-FYP/SAMP.Lua
 - Если скрипт перестал работать, вы можете перезагрузить все ваши скрипты скриптом, который идёт в комплекте с moonloader (нажав клавиши ctrl+r).
+
+
+ENG:
 
 RDS UCAR (Current version 1.5)
 Server SA-MP: RDS (176.32.36.131:7777)
@@ -41,6 +46,10 @@ NOTE! IMPORTANT!
 - For the script to work, the SAMP.Lua library (SAMP.Events module) is required. You can download it either from the link: blast.hk/threads/14624, or from the developer's repository: github.com/THE-FYP/SAMP.Lua
 - If the script stops working, you can reload all your scripts with the script that comes with moonloader (by pressing ctrl+r).
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RUS:
+
 RDS XCAR (Актуальная версия 2.8)
 Сервер СА-МП: РДС (176.32.36.131:7777)
 1. Скрипт предназначен для восстановления ранней позиции автомобиля.
@@ -61,6 +70,8 @@ RDS XCAR (Актуальная версия 2.8)
 - Для работы скрипта необходима библиотека SAMP.Lua (модуль SAMP.Events). Скачать можно либо по ссылке: blast.hk/threads/14624, либо из репозитория разработчика: github.com/THE-FYP/SAMP.Lua
 - Если скрипт перестал работать, вы можете перезагрузить все ваши скрипты скриптом, который идёт в комплекте с moonloader (нажав клавиши ctrl+r).
 
+ENG:
+
 RDS XCAR (Current version 2.8)
 SA-MP server: RDS (176.32.36.131:7777)
 1. The script is designed to restore the early position of the car.
@@ -80,3 +91,5 @@ In order not to go here for information, the script provides a dialog box with i
 NOTE! IMPORTANT!
 - For the script to work, the SAMP.Lua library (SAMP.Events module) is required. You can download it either from the link: blast.hk/threads/14624, or from the developer's repository: github.com/THE-FYP/SAMP.Lua
 - If the script stops working, you can reload all your scripts with the script that comes with moonloader (by pressing ctrl+r).
+- 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
