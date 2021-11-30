@@ -3,7 +3,7 @@ This repository contains compiled versions of scripts for the RDS server
 
 RUS:
 
-RDS UCAR (Актуальная версия 1.5)
+RDS UCAR (Актуальная версия 1.6)
 Сервер СА-МП: РДС (176.32.36.131:7777)
 1. Скрипт предназначен для минимизирования помех.
 - По нажатию на клавишу активации: B (по умолчанию) включается часть кода скрипта, которая отправляет ложную синхронизацию по координате Z (data.position.z = -90).
@@ -18,6 +18,8 @@ RDS UCAR (Актуальная версия 1.5)
 Доступные клавиши для использования: shift, space, default, x, r, q, e, g, z, b, n, ctrl(control).
 - Параметр "messages" отвечает за отображение сообщений скрипта по умолчанию.
 Если ввести "messages=false" или "messages=0", то сообщения скрипта отправляться не будут. Если же ввести "messages=true" или "messages=1", то сообщения будут отправляться.
+- Параметр "render" отвечает за работу рендера по умолчанию. Функция отображает задержку скрипта в реальном времени.
+Если ввести "render=false" или "render=0", то рендер будет отображаться надпись на экране. Если же ввести "render=true" или "render=1", то рендер будет отображаться на экране.
 
 ОБРАТИТЕ ВНИМАНИЕ! ВАЖНО!
 - Для работы скрипта необходима библиотека SAMP.Lua (модуль SAMP.Events). Скачать можно либо по ссылке: blast.hk/threads/14624, либо из репозитория разработчика: github.com/THE-FYP/SAMP.Lua
@@ -26,7 +28,7 @@ RDS UCAR (Актуальная версия 1.5)
 
 ENG:
 
-RDS UCAR (Current version 1.5)
+RDS UCAR (Current version 1.6)
 Server SA-MP: RDS (176.32.36.131:7777)
 1. The script is designed to minimize interference.
 - By pressing the activation key: B (by default), a part of the script code is included that sends a false synchronization at the Z coordinate (data.position.z = -90).
@@ -41,6 +43,8 @@ because for other players you just hover deep under the textures.
 Available keys for use: shift, space, default, x, r, q, e, g, z, b, n, ctrl(control).
 - The "messages" parameter is responsible for displaying the messages of the script by default.
 If you enter "messages=false" or "messages=0", the script messages will not be sent. If you enter "messages=true" or "messages=1", then messages will be sent.
+- The "render" parameter is responsible for the default rendering. The function displays the script delay in real time.
+If you enter "render=false" or "render=0", then the render will be displayed on the screen. If you enter "render=true" or "render=1", then the render will be displayed on the screen.
 
 NOTE! IMPORTANT!
 - For the script to work, the SAMP.Lua library (SAMP.Events module) is required. You can download it either from the link: blast.hk/threads/14624, or from the developer's repository: github.com/THE-FYP/SAMP.Lua
